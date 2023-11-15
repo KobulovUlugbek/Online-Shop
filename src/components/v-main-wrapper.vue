@@ -1,6 +1,6 @@
 <template>
     <div class="v-main-wrapper">
-        <p>{{ title }}</p>
+        <p></p>
         <VCatalog />
         <VCart />
     </div>
@@ -22,7 +22,7 @@ export default{
     props: {},
     data(){
         return{
-            title: 'Main Wrapper',
+            
         }
     },
 /*     computed: {},
@@ -43,10 +43,10 @@ export default{
 <style>
 
 .v-main-wrapper{
-    display: flex;
+    /* display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
     max-width: 900px;
     margin: 0 auto;
 }

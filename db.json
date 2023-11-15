@@ -1,19 +1,53 @@
 {
-  "posts": [
+  "products": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "image": "logo.png",
+      "name": "T-Shirt 1",
+      "price": 100,
+      "article": "T1",
+      "available": true
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "image": "logo.png",
+      "name": "T-Shirt 2",
+      "price": 100,
+      "article": "T2",
+      "available": true
+    },
+    {
+      "image": "logo.png",
+      "name": "T-Shirt 3",
+      "price": 100,
+      "article": "T3",
+      "available": true
+    },
+    {
+      "image": "logo.png",
+      "name": "T-Shirt 4",
+      "price": 100,
+      "article": "T4",
+      "available": true
+    },
+    {
+      "image": "logo.png",
+      "name": "T-Shirt 5",
+      "price": 100,
+      "article": "T5",
+      "available": true
+    },
+    {
+      "image": "logo.png",
+      "name": "T-Shirt 6",
+      "price": 100,
+      "article": "T6",
+      "available": true
+    },
+    {
+      "image": "logo.png",
+      "name": "T-Shirt 7",
+      "price": 100,
+      "article": "T7",
+      "available": true
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
